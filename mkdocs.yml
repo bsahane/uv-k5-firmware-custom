@@ -1,1 +1,17 @@
 site_name: UV K5 Firmware Documentation
+
+plugins:
+  - search
+  - blog:
+      blog_toc: true
+      blog_dir: blog
+  - group
+  - offline
+  - social
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
