@@ -1,4 +1,4 @@
-<img align="right" width="155" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/acebb5db-6f3a-4696-825c-f45865bdb998">
+<img align="right" width="155" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/acebb5db-6f3a-4696-825c-f45865bdb998">
 
 <br> 
 
@@ -33,5 +33,5 @@ If you have an idea, [create an Issue with label [Documentation]](https://github
 * New text can be placed here below in draft as _proposal_ and for _testing layout_.
 
    * Empty ...... that means I am DONE !
-![ready](https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/565f4c16-2635-4a01-947f-f519b10397b7)
+![ready](../assets/565f4c16-2635-4a01-947f-f519b10397b7)
 

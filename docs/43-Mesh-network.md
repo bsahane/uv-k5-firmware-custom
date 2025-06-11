@@ -20,11 +20,11 @@ For a quick explanation of Meshtastic please check out video below:
 
 Video of the NUNU Protocol showing message hopping with 3 radios:
 
-https://github.com/kamilsss655/uv-k5-firmware-custom/assets/8842065/5392ce36-9308-4a54-a92c-a82474b4b0d5
+../assets/5392ce36-9308-4a54-a92c-a82474b4b0d5
 
 Video of the NUNU Protocol with 4 radios:
 
-https://github.com/kamilsss655/uv-k5-firmware-custom/assets/8842065/078dca54-b9aa-4930-bf19-0529c1c1791b
+../assets/078dca54-b9aa-4930-bf19-0529c1c1791b
 
 ## Functionalities
 

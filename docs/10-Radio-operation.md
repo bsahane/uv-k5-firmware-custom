@@ -22,7 +22,7 @@ In the `channel mode` you can switch between saved memory channels. Memory chann
 
 ### Frequency scanning
 
-To start a frequency scan switch the VFO to frequency mode. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/30-%E2%80%90-Button-functions#custom-button-functions) or by long pressing `* Scan` button.
+To start a frequency scan switch the VFO to frequency mode. Set the start frequency. Set the frequency step (menu `Step`). Start scanning with [custom button scan function](../30-Button-functions#custom-button-functions) or by long pressing `* Scan` button.
 
 #### Scan frequency Range function (ScnRng)
 * switch to frequency mode (_at least 1 VFO_) 
@@ -41,7 +41,7 @@ To start a frequency scan switch the VFO to frequency mode. Set the start freque
 * long-press `5` or long-press `EXIT`, or long-press `2 A/B` to _exit ScnRng mode_
 
 > [!NOTE] 
-> `ScnRng` function is also supported by spectrum analyzer. If you activated the function just start [spectrum analyzer](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/40-%E2%80%90-Spectrum-analyzer#spectrum-sweep-screen).
+> `ScnRng` function is also supported by spectrum analyzer. If you activated the function just start [spectrum analyzer](../40-Spectrum-analyzer#spectrum-sweep-screen).
 
 ### Memory-channels scanning
 
@@ -49,7 +49,7 @@ To scan channels saved in the radio memory switch the VFO to Memory mode.
 
 The radio has 2 scanning lists. Each memory-channel can belong to 0, 1 or 2 lists. To add/delete a channel to/from a list switch current VFO to desired channel and go to a menu `ScAdd1` or `ScAdd2`, alternatively you can long press `5 NOAA` button, you will see icons `I` and `II` toggling on and off on the right side of the channel label.
 
-If you set up the scanning lists you can start scanning by using [custom button scan function](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/30-%E2%80%90-Button-functions#custom-button-functions) 
+If you set up the scanning lists you can start scanning by using [custom button scan function](../30-Button-functions#custom-button-functions) 
 or by long pressing `* Scan` button. If you press the function button or long press `* Scan` while scanning, the scanning list will be switched, you will see corresponding icon on the top left of the screen: 1, 2 or * (star means: All memory channels). Active scanning list can also be changed with menu `SList`. You can view scan lists and its channels by going to menu: `SList1` or `SList2`.
 
 ### Common frequency/channel scanning features
@@ -66,7 +66,7 @@ You can also search only the DCS/CTCSS code for a frequency set on the main VFO.
 
 There is another option of DCS/CTCSS code scanning. Choose desired frequency or a channel. Go to the menu `RxDCS` or `RxCTCS`. Enter the menu option and press `* SCAN` button. A SCAN label will appear. Wait for a radio signal or press the PTT button on the other radio. When code is found the SCAN label will disappear, to save confirm the option with the `MENU` button. It doesn't matter on which of the two menu items you start the scan. Both DCS and CTCSS will always be found, and the menu entry will be changed to the correct one.
 
-The CTCSS can be used to detect the `Tail tone` other radios are using. See [Tips & Tricks  Detect tail tone of other-radio](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/80-%E2%80%90-Tips-&-Tricks-and-Known-Issues#detect-the-tail-tone-of-other-radio-with-ctcss-scanner)
+The CTCSS can be used to detect the `Tail tone` other radios are using. See [Tips & Tricks  Detect tail tone of other-radio](../80-Tips-&-Tricks-and-Known-Issues#detect-the-tail-tone-of-other-radio-with-ctcss-scanner)
 
 > [!NOTE] 
 > During scanning RX LED will turn on when signal level > 5
@@ -74,7 +74,7 @@ since we don't hear the audio during the scan, this lets us know that there is s
 
 ## 1750 Hz toneburst for repeater access
 
-When the `PTT` is pressed, the 1750 Hz can be activated by pressing [`Function-button-II`](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/30-%E2%80%90-Button-functions#function-button-ii) (_side key 2, bottom_)
+When the `PTT` is pressed, the 1750 Hz can be activated by pressing [`Function-button-II`](../30-Button-functions#function-button-ii) (_side key 2, bottom_)
 
 
 ## DTMF calling (decoding) is removed.

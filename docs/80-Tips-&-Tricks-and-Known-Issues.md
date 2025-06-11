@@ -1,3 +1,6 @@
+<img align="right" width="275" src="../assets/1bded9fc-6aa1-4941-a86d-d324b82409e8">
+
+
 # What if Spectrum Scan Freezes
 
 This is caused by a strong signal. The only way to fix this is to lower your gain settings in spectrum (_while antenna is disconnected_).
@@ -41,7 +44,7 @@ Numbering of menu-items is based on _release 20.5_
    * 34 `BackkLt` - Backlight duration. Set this to **2 minutes**
    * 46 `RXMode` - Set it to **Main TX Dual RX** - always transmits on the primary channel (marked ►), listens to both.
 
-**And as an option in the [hidden menu](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/20-%E2%80%90-Menu#hidden-menu)**
+**And as an option in the [hidden menu](../20-Menu#hidden-menu)**
 
    * 60 `BATCAL` - Battery calibration. Measure the battery voltage with a voltmeter (on the metal loops on the back of the radio) and adjust the value in the menu accordingly.
 
@@ -55,7 +58,7 @@ Numbering of menu-items is based on _release 20.5_
 
 ## Use an SMA-female to BNC-female connector/adapter
 
-<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/148579604/8a73976a-241d-4355-9037-a92f157fc32b" hspace="40" >
+<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/8a73976a-241d-4355-9037-a92f157fc32b" hspace="40" >
 
 * so you can easily connect the external antenna cable to the radio
 
@@ -63,12 +66,12 @@ Numbering of menu-items is based on _release 20.5_
 
 * extra option is to extend that to PL256 with is adapter
 
-<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/148579604/6af4e626-8f83-48a7-82e3-5b30c2bfc3d3" hspace="40" >
+<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/6af4e626-8f83-48a7-82e3-5b30c2bfc3d3" hspace="40" >
 
 ## Converter cable
 An other suggestion is this converter cable
 
-<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/148579604/4d7ea84c-5786-4493-9816-7d5b8248bd87" hspace="40" >
+<img width="300" src="https://github.com/nicsure/QuanshengDock/assets/4d7ea84c-5786-4493-9816-7d5b8248bd87" hspace="40" >
 
 <br>
 

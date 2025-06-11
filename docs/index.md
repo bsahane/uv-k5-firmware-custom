@@ -1,6 +1,6 @@
 ## Welcome 
 
-<img align="right" width="255" src="https://github.com/user-attachments/assets/650008aa-e34c-43b8-a315-c1399e00210d">
+<img align="right" width="255" src="../assets/650008aa-e34c-43b8-a315-c1399e00210d">
 
 **to `Kamil's and ErikS's manual for NUNU-firmware` for UV-K5 series.**
 
@@ -13,10 +13,10 @@ You can _check the status_ of the Wiki on this page [updates on the Manual](http
 
 * _Dedicated CHIRP driver_ can be downloaded from [uvk5-chirp-driver](https://github.com/kamilsss655/uvk5-chirp-driver)
 
-* For _more technical information_ go to [README.md](https://github.com/kamilsss655/uv-k5-firmware-custom/blob/main/README.md)
+* For _more technical information_ go to [README.md](../assets/README.md)
 
 ## Sponsor this project
-[<img align="right" width="350" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/944e3ea9-6c67-40f6-a599-c28af8c5c525">](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/90-%E2%80%90-00-%E2%80%90-Early-Release-V.21.x-%E2%80%90-Features)
+[<img align="right" width="350" src="../assets/944e3ea9-6c67-40f6-a599-c28af8c5c525">](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/90-%E2%80%90-00-%E2%80%90-Early-Release-V.21.x-%E2%80%90-Features)
 
 <br> 
 
@@ -29,15 +29,15 @@ You can _check the status_ of the Wiki on this page [updates on the Manual](http
 
 <img align="right" width="255"  src="https://github.com/user-attachments/assets/47d6d4e9-722a-44b7-9ce8-2a5e4fcdef4e">
 
-* [Radio operation](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/10-%E2%80%90-Radio-operation)
-* [Menu](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/20-%E2%80%90-Menu)
-* [Button functions](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/30-%E2%80%90-Button-functions)
-* [Spectrum analyzer](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/40-%E2%80%90-Spectrum-analyzer)
-* [Messenger](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/42--%E2%80%90-Messenger)
-* [FM broadcast radio receiver](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/50-%E2%80%90-FM-broadcast-radio-receiver)
-* [Flashing the firmware](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/60-%E2%80%90-Flashing-the-firmware)
-* [Differences from egzumer firmware](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/70-%E2%80%90-Differences-from-egzumer-firmware)
-* [Tips & Tricks and Known Issues.](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/80-%E2%80%90-Tips-&-Tricks-and-Known-Issues)
+* [Radio operation](../10-Radio-operation)
+* [Menu](../20-Menu)
+* [Button functions](../30-Button-functions)
+* [Spectrum analyzer](../40-Spectrum-analyzer)
+* [Messenger](../42-Messenger)
+* [FM broadcast radio receiver](../50-FM-broadcast-radio-receiver)
+* [Flashing the firmware](../60-Flashing-the-firmware)
+* [Differences from egzumer firmware](../70-Differences-from-egzumer-firmware)
+* [Tips & Tricks and Known Issues.](../80-Tips-&-Tricks-and-Known-Issues)
 
 ## Translations
 

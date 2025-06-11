@@ -4,7 +4,7 @@ Thanks to great work of @joaquimorg, we now have the _**new Messenger Feature**_
 
 **Keys**
 
-<img align="right" width="400" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/55d021c0-c065-495d-80a6-65d591efafd4">
+<img align="right" width="400" src="../assets/55d021c0-c065-495d-80a6-65d591efafd4">
 
 * `*` - Change keyboard, **U**pper case, **L**ower case, **N**umeric.
 * `0` - Space, except in numeric mode.
@@ -15,7 +15,7 @@ Thanks to great work of @joaquimorg, we now have the _**new Messenger Feature**_
 * `Exit` - Close application
 
 <br>
-<img align="right" width="400" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/6f64ded9-ddf7-468c-8b28-1902ffed2435">
+<img align="right" width="400" src="../assets/6f64ded9-ddf7-468c-8b28-1902ffed2435">
 
 
 > [!NOTE]
@@ -40,7 +40,7 @@ Thanks to great work of @joaquimorg, we now have the _**new Messenger Feature**_
   * This new Messenger is not completely backwards compatible with (receiving from) old version (< rel 20)
   * Make sure there is at least 1 meter distance between two devices
 
-The encryption technique is explained in details in a [separate chapter Encryption](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/44-%E2%80%90-Encryption)
+The encryption technique is explained in details in a [separate chapter Encryption](../44-Encryption)
 
 
 

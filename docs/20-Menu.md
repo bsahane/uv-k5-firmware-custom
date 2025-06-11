@@ -1,16 +1,4 @@
-<img align="right" width="350" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/944e3ea9-6c67-40f6-a599-c28af8c5c525">
-
-<br> 
-
-<br>
-
-**Sponsors** have access to _early release_ whose changes are detailed here in this chapter.
-
-So you as a user can determine if the added things are worth subscribing also here ... [How2Sponser](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki#sponsor-this-project).
-
-<br> 
-
-<img align="right" width="200" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/c6ad673c-c051-4876-a961-fec5c5c47333">
+<img align="right" width="200" src="../assets/c6ad673c-c051-4876-a961-fec5c5c47333">
 
 ## Menu operation
 
@@ -38,7 +26,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `TxOffs` - transmitter frequency offset value
 1. `RxOffs` - offsets the receive frequency by any specified amount for use with upconverters (in the range of 0-150Mhz). Allows to fine tune the frequency (1kHz resolution) as opposed to other implementations that use hardcoded offsets, this once set will also allow to tune below 18Mhz limit. 
    * You can fine tune this setting in even smaller steps by changing `Step` setting to `0.01kHz` and then use `UP/DOWN` buttons to alter `RxOffs` in increments of `0.01kHz`.
-   * TX is disabled when RX_OFFSET is set to protect the upconverter.
+   * TX is disabled when RX_OFFSET is set to protect the upconverter
    * **IMPORTANT**: Make sure you set this value to 0 if not using an upconverter, when used for the first time. Otherwise it might load some random offset from EEPROM.
 1. `Scramb` - scrambler, distorts the audio so that it is unintelligible to other listeners. If radios use the same setting, they can communicate clearly.
 1. `BusyCL` - busy channel lockout, blocks radio from transmitting because signal is being received (with **BUSY** on screen while PTT is pressed)
@@ -62,7 +50,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 1. `F2Shrt` - side button 2 short press function
 1. `F2Long` - side button 2 long press function
 1. `M Long` - menu button long press function
-1. `KeyLck` - auto keypad lock option (15 seconds timer)
+1. `KeyLck` - auto keypad lock option
 1. `TxTOut` - max transmission time limit
 1. `BatSav` - battery save option, the rate between active time and sleep time (OFF/50%/67%/75%/80%)
 1. `Mic` - microphone sensitivity (+1.1dB .. +15.1dB)
@@ -92,7 +80,6 @@ The number in front of the menu-item-description is an **_menu item number_** th
    * after **3 wrong PIN entries** the device will perform _**a factory reset**_, erasing all the stored channels and settings
 1. `EncKey` - presents hashed value of _encryption key_. By pressing `M` a new 10 characters password can be entered.
 1. `MsgEnc` - determines whether outgoing _messages will be encrypted_
-1. `MsgID` - (0 - 255)
 1. `MsgRx` - determines whether fsk modem will _listen for new messages_
 1. `MsgAck` - determines whether the radio will _automatically respond_ to messages with ACK
 1. `MsgMod` - messenger _modulation_
@@ -105,7 +92,7 @@ The number in front of the menu-item-description is an **_menu item number_** th
 
 Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the radio and than Release All Keys.
 
-55. `F Lock` - sets the TX frequency band plan. 
+54. `F Lock` - sets the TX frequency band plan. 
     * DEFAULT+ (137-174, 400-470) - allows TX on default bands, plus options `Tx 200`, `Tx 350`, `Tx 500`
     * FCC HAM (144-148, 420-450)
     * CE HAM (144-146, 430-440)
@@ -117,6 +104,7 @@ Hidden menu is activated by holding `PTT` + `SIDE BUTTON 1` while turning on the
 1. `Tx 350` - enables TX on 350MHz
 1. `Tx 500` - enables TX on 500MHz
 1. `350 En` - enables RX on 350MHz
+1. `ScraEn` - enables scrambler function
 1. `BatCal` - battery calibration, measure the voltage on the back of the radio, and adjust the value in the menu accordingly
 1. `BatTyp` - battery type, 1600mAh and 2200mAh battery has very different discharge curve, this is used to calculate battery level percentage
 1. `Reset` - resets radio configuration settings

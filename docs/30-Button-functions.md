@@ -1,4 +1,4 @@
-<img align="right" width="355" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/c6ad673c-c051-4876-a961-fec5c5c47333">
+<img align="right" width="355" src="../assets/c6ad673c-c051-4876-a961-fec5c5c47333">
 
 Buttons have functions assigned to them, these functions can be activated by either pressing `F/#` button first, then the function button (I will call it `F+` call). Other method is by long pressing the function button alone without `F/#`. Most buttons replicate the `F+` with long press, but some buttons might have assigned different functions for `F+` and long press (for example button 5, * and Exit).
 
@@ -8,7 +8,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * short press - enter menu
 * short press while channel/frequency scanning - last found channel is preserved on the screen
 * long press - user programmable in the menu: `M Long`
-* `F+` - activates [Messenger](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/42--%E2%80%90-Messenger)
+* `F+` - activates [Messenger](../42-Messenger)
 ### `EXIT`
 * short press - exits current menu/function, deletes one digit in an input box
 * long press - deletes all input, exits DTMF input box
@@ -34,7 +34,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
   * in **frequency mode** - activates Spectrum-analyzer, _starting_ with frequency of the VFO
 * long press
   * in **channel mode** - toggles scan lists that the selected channel is assigned to. You will see `I` and `II` symbols changing on the right side of the channel label
-  * in **frequency mode** - activates [frequency scan range feature](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/10-%E2%80%90-Radio-operation#frequencymemory-scanning)
+  * in **frequency mode** - activates [frequency scan range feature](../10-Radio-operation#frequencymemory-scanning)
 ### `6 H/M/L`
 * `F+` - toggles power levels for current channel
 * long press - same
@@ -56,7 +56,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * `F+` - turns on CTCSS scanner for current frequency
 * long press
   * in channel mode turns on channel scanner
-  * in frequency mode turns on frequency scanner (can use [scan range feature](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/10-%E2%80%90-Radio-operation#scan-frequency-range-function-scnrng))
+  * in frequency mode turns on frequency scanner (can use [scan range feature](../10-Radio-operation#scan-frequency-range-function-scnrng))
 * When pressed while channel scan is in progress toggles scan lists 1/2/ALL
 
 ### `F # 🗝`
@@ -64,7 +64,7 @@ Buttons have functions assigned to them, these functions can be activated by eit
 * long press - turns on/off key lock all the keys of the Front keypad
 
 ## Side buttons
-<img align="right" width="255" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/64dabc4f-6015-411c-b8d1-f752b91b39ee">
+<img align="right" width="255" src="../assets/64dabc4f-6015-411c-b8d1-f752b91b39ee">
 
 ### `PTT` 
 * Push To Talk button.
@@ -109,4 +109,4 @@ Available functions:
 * VFO/MR - change current VFO mode, frequency mode or channel mode
 * SWITCH DEMODUL - switch to the next demodulation mode (FM/AM/USB)
 * SWITCH BANDWIDTH - switches current bandwidth
-* SPECTRUM - runs [spectrum analyzer](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/40-%E2%80%90-Spectrum-analyzer) in channel- or frequency mode
+* SPECTRUM - runs [spectrum analyzer](../40-Spectrum-analyzer) in channel- or frequency mode

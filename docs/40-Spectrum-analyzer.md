@@ -1,7 +1,7 @@
 ## Additions: Extra functionality
 <br>
 
-<img align="right" width="300" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/1bded9fc-6aa1-4941-a86d-d324b82409e8">
+<img align="right" width="300" src="../assets/1bded9fc-6aa1-4941-a86d-d324b82409e8">
 
 Some mods introduced by me on the spectrum functionality.
 
@@ -17,7 +17,7 @@ Some mods introduced by me on the spectrum functionality.
 
 * _Squelch Tail tone Elimination_ works in spectrum (if matches settings in menu-`SqTone` )
 
-<img width="300" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/49b7cdb5-fdc0-4a27-b8f6-6816651a4238" align="right" >
+<img width="300" src="../assets/49b7cdb5-fdc0-4a27-b8f6-6816651a4238" align="right" >
 
 * _Mode indicators_ ( _top-left_ of the screen and and _bottom center_ )
    * `N(0x)` - **normalization** function applied indicator
@@ -39,7 +39,7 @@ Some mods introduced by me on the spectrum functionality.
 <br> 
 
 * **_Normalization_** _auto-adjusts_ screen, when activated. `N(0x)` on screen
-<img width="625" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/76f3cf46-8ff5-4754-884a-6abe2443c74a" hspace="30" >
+<img width="625" src="../assets/76f3cf46-8ff5-4754-884a-6abe2443c74a" hspace="30" >
 <br> 
 
 ### Button functions
@@ -66,11 +66,11 @@ Press `F`+ `5` to enter the _spectrum mode_ of the **Spectrum analyzer**.
 
 The current VFO/Memory frequency will be the _**start frequency**_ of the spectrum sweep
 
-<img width="300" src="https://github.com/egzumer/uv-k5-firmware-custom/assets/148579604/80dfe424-f5d4-432b-9b95-32d116db9bd9" hspace="30" >
+<img width="300" src="../assets/80dfe424-f5d4-432b-9b95-32d116db9bd9" hspace="30" >
 <br> 
 
 * spectrum frequency **_change step is auto-adjusted_** to _half a spectrum bandwidth_
-* Spectrum analyzer can also be used with [ScnRng mode](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/10-%E2%80%90-Radio-operation#scan-frequency-range-function-scnrng) 
+* Spectrum analyzer can also be used with [ScnRng mode](../10-Radio-operation#scan-frequency-range-function-scnrng) 
 > [!NOTE]
 > * in this mode **Blacklist** is limited to **200** frequencies
 
@@ -97,11 +97,11 @@ The current VFO/Memory frequency will be the _**start frequency**_ of the spectr
 
 ## Detail Monitor screen
 
-<img width="300" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/4a274ea0-1808-471c-b5a8-225c5805627f" hspace="30" >
+<img width="300" src="../assets/4a274ea0-1808-471c-b5a8-225c5805627f" hspace="30" >
 
 ###  Button functions
 
-<img width="400" align="right" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/654df609-922a-4a3c-9f4d-2114ef03373a" hspace="30" >
+<img width="400" align="right" src="../assets/654df609-922a-4a3c-9f4d-2114ef03373a" hspace="30" >
 
 `M` - scrolls through the parameters displayed at the bottom of the screen which can be adjusted with `UP/DOWN`
 
@@ -117,7 +117,7 @@ The current VFO/Memory frequency will be the _**start frequency**_ of the spectr
 <br> 
 
 ## Documentation
-* Instruction for the Spectrum Analyzer (_initial version_) [QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf](https://github.com/kamilsss655/uv-k5-firmware-custom/files/13802044/QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf)
+* Instruction for the Spectrum Analyzer (_initial version_) [QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf](../assets/QuanSheng.UV.K5.Spectrum.analyzer.guide.EN.pdf)
 <br> 
 
 ## Note 

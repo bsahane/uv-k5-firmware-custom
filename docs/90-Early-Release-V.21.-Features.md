@@ -3,7 +3,7 @@
 >
 > _**Now a special Encrypted Messenger and this feature is expanding.**_
 
-<img align="right" width="350" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/944e3ea9-6c67-40f6-a599-c28af8c5c525">
+<img align="right" width="350" src="../assets/944e3ea9-6c67-40f6-a599-c28af8c5c525">
 
 <br> 
 
@@ -11,12 +11,12 @@
 
 **Sponsors** have access to _early release_ whose changes are detailed here in this chapter
 
-So you as a user can determine if the added things are worth subscribing also here ... [How2Sponser](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki#sponsor-this-project)
+So you as a user can determine if the added things are worth subscribing also here ... [How2Sponser](#sponsor-this-project)
 
 <br> 
 
 * The most important different items are included here as
-   * [Mesh network](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/43-%E2%80%90-Mesh-network)
+   * [Mesh network](../43-Mesh-network)
    * 20 ‐ Menu
    * 30 ‐ Button functions
 

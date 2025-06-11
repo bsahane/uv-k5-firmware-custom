@@ -1,10 +1,10 @@
 ## Added
 
-<img align="right" width="275" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/1bded9fc-6aa1-4941-a86d-d324b82409e8">
+<img align="right" width="275" src="../assets/1bded9fc-6aa1-4941-a86d-d324b82409e8">
 
 ### Spectrum-analyzer 
 
-* Can also be started from **[Memory Channel mode](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/40-%E2%80%90-Spectrum-analyzer#additions-extra-functionality)**.
+* Can also be started from **[Memory Channel mode](../40-Spectrum-analyzer#additions-extra-functionality)**.
 * Screen differs in **channel mode** and in **frequency mode** 
 * Displays _recognizes received memory channels_ op _top of screen_.
 * Switch active Scanlist with `4` and is presented with letters _`SL I`, `SL II`, or `ALL`_ (left on screen, row 3)
@@ -30,14 +30,14 @@
 
    * TX is disabled when RX_OFFSET is set to protect the upconverter
 
-<img align="right" width="255" src="https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/55d021c0-c065-495d-80a6-65d591efafd4">
+<img align="right" width="255" src="../assets/55d021c0-c065-495d-80a6-65d591efafd4">
 
 ### Messenger
 
-   `F+` `MENU`activates [Messenger](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/42--%E2%80%90-Messenger)
+   `F+` `MENU`activates [Messenger](../42-Messenger)
 
 ### POWER ON PASSWORD
- See [Menu-item 48.`Passwd`](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/20-%E2%80%90-Menu).
+ See [Menu-item 48.`Passwd`](../20-Menu).
 
 ### Squelch Tail tone
 * new `SqTone` sets the squelch tail tone used for RX/TX when no DCS/CTCSS is used to make radio compatible with more expensive radios
@@ -67,7 +67,7 @@ Measured on a UVK5(8) with an SX-600
 
 ### FM broadcast radio receiver - _minimum functionality_
 
-* [completely rewritten](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/50-%E2%80%90--FM-broadcast-radio-receiver) to be **Micro Size**
+* [completely rewritten](../50-FM-broadcast-radio-receiver) to be **Micro Size**
 
 ### BLMax 
 RX-led turns on/Green in Spectrum only when BlMax > 7  to improve user _experience_ in _low light conditions_
@@ -83,7 +83,7 @@ With [release 18](https://github.com/kamilsss655/uv-k5-firmware-custom/releases/
 
 The _free space_ will be used for other features. Perhabs in future the radio will return in stricted functionality.
 
-More info on [FM-broadcast-radio-receiver](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/50-%E2%80%90--FM-broadcast-radio-receiver) 
+More info on [FM-broadcast-radio-receiver](../50-FM-broadcast-radio-receiver) 
 
 <br>
 
@@ -92,7 +92,7 @@ More info on [FM-broadcast-radio-receiver](https://github.com/kamilsss655/uv-k5-
 
 As an example against using this radio for actual communications, consider the following chart for transmission power for a transmission at 27.254MHz:
 
-![Harmonics-in Spectrum](https://github.com/kamilsss655/uv-k5-firmware-custom/assets/148579604/9db7936d-61d1-4c40-a81c-6b5d421fe6a1)
+![Harmonics-in Spectrum](../assets/9db7936d-61d1-4c40-a81c-6b5d421fe6a1)
 
 - 27.254MHz -> **228 microwatts**
 - 54 Mhz -> 2.4 milliwatts

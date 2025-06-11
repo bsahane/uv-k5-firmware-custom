@@ -33,7 +33,7 @@
 > _During broadcast reception the active VFO still has priority. This means that any reception on the active VFO will temporarily disable broadcast reception and the radio switches to VFO reception. At the end of VFO reception the radio switches back to broadcast after a five seconds. By pressing side-button-PTT you also temporary interrupt FM-reception._
 > 
 > ### BASIC OPERATION
-> * `F` + `0 FM` or long press `0 FM` or [custom button function](https://github.com/kamilsss655/uv-k5-firmware-custom/wiki/30-%E2%80%90-Button-functions#custom-button-functions) starts broadcast reception
+> * `F` + `0 FM` or long press `0 FM` or [custom button function](../30-Button-functions#custom-button-functions) starts broadcast reception
 > * `Exit` or using above start command, when radio is in FM radio mode, ends broadcast reception
 > * `F` + `VFO/MR` or long press `VFO/MR` changes between VFO or memory channels (VFO-/MR-mode)
 > 
